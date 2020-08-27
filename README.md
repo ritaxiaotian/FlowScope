@@ -1,6 +1,6 @@
-# Atteion, if you are a student, read this part at botomm  first!
-# Atteion, if you are a student, read this part at botomm  first!
-# Atteion, if you are a student, read this part at botomm  first! 
+# Atteion, if you are a student, read this document at botomm  first!
+# Atteion, if you are a student, read this document at botomm  first!
+# Atteion, if you are a student, read this document at botomm  first! 
 
 # FlowScope 
 
@@ -85,7 +85,7 @@ parameter specifications：
 
 &emsp; Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
 
-I wish you could stop doing this, anti-money laundering(AML) is useless. you can search the top AML company，such as LexisNexis(it has some business about AML ),  Analysing its annual report，you will know that devote your career to AML is a total mistake.   Maybe, a job of software engineer is a better choice. 
+&emsp; I wish you could stop doing this, anti-money laundering(AML) is useless. you can search the top AML company，such as LexisNexis(it has some business about AML ),  Analysing its annual report，you will know that devote your career to AML is a total mistake.   Maybe, a job of software engineer is a better choice. 
 
 ## AML is worthless
 
