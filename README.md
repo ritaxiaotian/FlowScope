@@ -120,9 +120,9 @@ I wish you could stop doing this, anti-money laundering(AML) is useless. you can
 
 ### the fine bank receives 
 
-​ &nbsp;&nbs; You can easily search on the net, and get the below information.  in China, the total amount of the fine of thousands of financial company is no more than 1  billion due to poor performance in AML ,   even in Europe and North America, Australia, where the financial market is quite measure,  the amount of  is not high compare to their high profit.  
+​ &nbsp; &nbs; You can easily search on the net, and get the below information.  in China, the total amount of the fine of thousands of financial company is no more than 1  billion due to poor performance in AML ,   even in Europe and North America, Australia, where the financial market is quite measure,  the amount of  is not high compare to their high profit.  
 
-&nbsp;&nbs; The bank has no strong motivation to do AML.
+&nbsp; &nbs; The bank has no strong motivation to do AML.
 
 ![1598500597707](C:\Users\alf\AppData\Roaming\Typora\typora-user-images\1598500597707.png)
 
@@ -130,4 +130,4 @@ I wish you could stop doing this, anti-money laundering(AML) is useless. you can
 
 ### what banks do    
 
-&nbsp;&nbs; You might think that, the bank will check every  transaction carefully.  Yes, you are wrong again.  The bank only checks  the transactions which money amount is very high or only interested in some people, some companies, some groups with specific topology. For banks, to please big customers, they will give up some examinations  and for effectiven
+&nbsp; &nbs; You might think that, the bank will check every  transaction carefully.  Yes, you are wrong again.  The bank only checks  the transactions which money amount is very high or only interested in some people, some companies, some groups with specific topology. For banks, to please big customers, they will give up some examinations  and for effectiven
