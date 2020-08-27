@@ -108,8 +108,6 @@ parameter specifications：
 
 ![image](https://user-images.githubusercontent.com/59363655/90001747-66864e00-dcc4-11ea-9f27-257c299feed6.png)
 
-&emsp; Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
-
 ## what AML company need
 
 ### how much the banks value AML
@@ -131,3 +129,5 @@ parameter specifications：
 ### what banks do    
 
 &emsp; You might think that, the bank will check every  transaction carefully.  Yes, you are wrong again.  The bank only checks  the transactions which money amount is very high or only interested in some people, some companies, some groups with specific topology. For banks, to please big customers, they will give up some examinations  and for effectiven
+### my suggesstion 
+&emsp; Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
