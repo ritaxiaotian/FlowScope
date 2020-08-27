@@ -127,9 +127,9 @@ parameter specifications：
 
 
 
+You might think that, the bank will check every  transaction carefully.  Yes, you are wrong again.  The bank only checks  the transactions which money amount is very high or only interested in some people, some companies, some groups with specific topology. For banks, to please big customers, they will give up some examinations  and for effectiveness purpose.  For banker, to  save time and leave enough of time to make profit, they just 'check' the  suspicious  transactions   on the computer and then turn it  to ‘normal’.  If there were no especially suspicious transactions, they won't pay attention, this is why  there are some many obvious money laundering behaviors was not known until the fine was imposed on the bank. You can imagine that there are still so many money laundering behavior without be caught.
 
-### what banks do    
+![image](https://user-images.githubusercontent.com/24772812/91387613-3ca65d00-e868-11ea-9a6c-586f2c0ec7c6.png)
 
-&emsp; You might think that, the bank will check every  transaction carefully.  Yes, you are wrong again.  The bank only checks  the transactions which money amount is very high or only interested in some people, some companies, some groups with specific topology. For banks, to please big customers, they will give up some examinations  and for effectiven
 ### my suggesstion 
 &emsp; Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
