@@ -1,5 +1,6 @@
-# Atteion, if you are a student, read this part first. 
-
+# Atteion, if you are a student, read this part at botomm  first!
+# Atteion, if you are a student, read this part at botomm  first!
+# Atteion, if you are a student, read this part at botomm  first! 
 
 # FlowScope 
 
@@ -80,54 +81,48 @@ parameter specifications：
 
 ```
 
-
-
-
-
-
-
 # Stop doing this:
 
-​    Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
+​ &nbsp;&nbs; Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
 
 I wish you could stop doing this, anti-money laundering(AML) is useless. you can search the top AML company，such as LexisNexis(it has some business about AML ),  Analysing its annual report，you will know that devote your career to AML is a total mistake.   Maybe, a job of software engineer is a better choice. 
 
 ## AML is worthless
 
-   If a person can build a car, why he choose to repair a car? Do you think this man some how was not smart.  Yes back to this question, the most import thing in a company is profit, if the work you do is related to the core profits, your payment, your feature will be brighter, if you do other jobs, you are insignificant, the meaning of your existence is only to support the core department. 
+&nbsp;&nbs; If a person can build a car, why he choose to repair a car? Do you think this man some how was not smart.  Yes back to this question, the most import thing in a company is profit, if the work you do is related to the core profits, your payment, your feature will be brighter, if you do other jobs, you are insignificant, the meaning of your existence is only to support the core department. 
 
-   In the bank, why you choose AML, the core business of the bank is loan business. AML does not create any  direct  profit for the bank, so  if the government not force the bank do some AML, you existence have no value.  There are so many better job than AML in bank, such as software engineer.  You can learning about the salary of AML job, you will know I am suggesting you for a better feature.  
+&nbsp;&nbs; In the bank, why you choose AML, the core business of the bank is loan business. AML does not create any  direct  profit for the bank, so  if the government not force the bank do some AML, you existence have no value.  There are so many better job than AML in bank, such as software engineer.  You can learning about the salary of AML job, you will know I am suggesting you for a better feature.  
 
 ## my experience
 
-   I am work so long with this in the school, and has no prejudice about this research before, but when I am about to graduate and want to find a job, I realized it was a big mistake, I can not find good internship,  good job, my classmates gets several times  salary than me. Even I work hard than them in the school, even they play game everyday.  Once, a  human resource throws my resume onto my face at once after browse it, I really don't know where I went wrong， and I spent countless sleepless night during my last year in the school. All of above is the total truth that I experienced, I hope you not follow my way. It was a total false. 
-    The experiment in the paper is really time costing, because of no data was opened on the net with labeled money laundering group. So many injection experiments are needed. I spent two week working day and night using 4 computer servers just trying one model. And it takes a long time to came up with the model, and we try dozens of models before published in the paper. Be honest, we tune the model from the beginning to the end of the whole research, you can image how many time I spent on this work. And the most unacceptable thing is I even cannot find a half pay job compared to the classmates who play game all day, there are very few companies who are interest in my paper. 
+ &nbsp;&nbs; I am work so long with this in the school, and has no prejudice about this research before, but when I am about to graduate and want to find a job, I realized it was a big mistake, I can not find good internship,  good job, my classmates gets several times  salary than me. Even I work hard than them in the school, even they play game everyday.  Once, a  human resource throws my resume onto my face at once after browse it, I really don't know where I went wrong， and I spent countless sleepless night during my last year in the school. All of above is the total truth that I experienced, I hope you not follow my way. It was a total false. 
+ &nbsp;&nbs; The experiment in the paper is really time costing, because of no data was opened on the net with labeled money laundering group. So many injection experiments are needed. I spent two week working day and night using 4 computer servers just trying one model. And it takes a long time to came up with the model, and we try dozens of models before published in the paper. Be honest, we tune the model from the beginning to the end of the whole research, you can image how many time I spent on this work. And the most unacceptable thing is I even cannot find a half pay job compared to the classmates who play game all day, there are very few companies who are interest in my paper. 
 
 ## why I don't stop
 
-My supervisors push me so hard with this job, describe a bright future for me, even threatened me with failure to graduate. I am a honest man and a bit timid.  So you can image how many efforts I put on this useless work, and how I suffered from this. But when I seek my teacher for help with the work, they reject to help to me or they provide bad jobs which I should get sleeping all three years in my school life without this fucking work.  Where's my supervisors? They have already made profit from this paper, and there are still some my efforts in their profit . They won't share whatever you do. Hope you can get a good supervisor.
+&nbsp;&nbs; My supervisors push me so hard with this job, describe a bright future for me, even threatened me with failure to graduate. I am a honest man and a bit timid.  So you can image how many efforts I put on this useless work, and how I suffered from this. But when I seek my teacher for help with the work, they reject to help to me or they provide bad jobs which I should get sleeping all three years in my school life without this fucking work.  Where's my supervisors? They have already made profit from this paper, and there are still some my efforts in their profit . They won't share. Hope you can get a good supervisor.
 
 ## the revenue of top AML company 
 
-if you do not believe me, looking at the  annual report of the parent company of  LexisNexis， RELX， it is easy to find on the net. LexisNexis is a top company  in AML,  its mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the AML problem.  It total revenue about risk solution and  business analytics is only 2,316 million ￡. Yes, and the AML's revenue is just a part of it, showing as the picture below.
+&nbsp;&nbs; if you do not believe me, looking at the  annual report of the parent company of  LexisNexis， RELX， it is easy to find on the net. LexisNexis is a top company  in AML,  its mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the AML problem.  It total revenue about risk solution and  business analytics is only 2,316 million ￡. Yes, and the AML's revenue is just a part of it, showing as the picture below.
 
 ![image](https://user-images.githubusercontent.com/59363655/90001747-66864e00-dcc4-11ea-9f27-257c299feed6.png)
 
-Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
+&nbsp;&nbs; Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
 
 ## what AML company need
 
 ### how much the banks value AML
 
-​    Though AML is a complex problem,  and you might think that the government and banks put so much attention to it, that's not the truth.  AML does  not create any profit directly, so for the company you work for, the value of AML equals to the fine they  receives. You might say that,  AML has great social and economic significance. That's a big joke, all your company your boss need is profit, is money, you are too young too simple, and may have not get fucke	 by the society and life.  The existence  meaning of regular  department in the bank is not to loan money to who can not pay back, or interact with whom that will make them get in trouble.  
+​&nbsp;&nbs; Though AML is a complex problem,  and you might think that the government and banks put so much attention to it, that's not the truth.  AML does  not create any profit directly, so for the company you work for, the value of AML equals to the fine they  receives. You might say that,  AML has great social and economic significance. That's a big joke, all your company your boss need is profit, is money, you are too young too simple, and may have not get fucke	 by the society and life.  The existence  meaning of regular  department in the bank is not to loan money to who can not pay back, or interact with whom that will make them get in trouble.  
 
-​     Ride the rubbish thoughts out of your mind, the biggest problem for the bank, for any company is profit. 
+​&nbsp;&nbs;  Ride the rubbish thoughts out of your mind, the biggest problem for the bank, for any company is profit. 
 
 ### the fine bank receives 
 
-​     You can easily search on the net, and get the below information.  in China, the total amount of the fine of thousands of financial company is no more than 1  billion due to poor performance in AML ,   even in Europe and North America, Australia, where the financial market is quite measure,  the amount of  is not high compare to their high profit.  
+​ &nbsp;&nbs; You can easily search on the net, and get the below information.  in China, the total amount of the fine of thousands of financial company is no more than 1  billion due to poor performance in AML ,   even in Europe and North America, Australia, where the financial market is quite measure,  the amount of  is not high compare to their high profit.  
 
-The bank has no strong motivation to do AML.
+&nbsp;&nbs; The bank has no strong motivation to do AML.
 
 ![1598500597707](C:\Users\alf\AppData\Roaming\Typora\typora-user-images\1598500597707.png)
 
@@ -135,4 +130,4 @@ The bank has no strong motivation to do AML.
 
 ### what banks do    
 
-    You might think that, the bank will check every  transaction carefully.  Yes, you are wrong again.  The bank only checks  the transactions which money amount is very high or only interested in some people, some companies, some groups with specific topology. For banks, to please big customers, they will give up some examinations  and for effectiven
+&nbsp;&nbs; You might think that, the bank will check every  transaction carefully.  Yes, you are wrong again.  The bank only checks  the transactions which money amount is very high or only interested in some people, some companies, some groups with specific topology. For banks, to please big customers, they will give up some examinations  and for effectiven
