@@ -123,13 +123,28 @@ parameter specifications：
 
 &emsp; The bank has no strong motivation to do AML.
 
-![image](https://user-images.githubusercontent.com/24772812/91387613-3ca65d00-e868-11ea-9a6c-586f2c0ec7c6.png)
+![image](https://user-images.githubusercontent.com/24772812/91387650-5051c380-e868-11ea-86a4-badeef69c3f4.png)
 
-
+### what banks do 
 
 You might think that, the bank will check every  transaction carefully.  Yes, you are wrong again.  The bank only checks  the transactions which money amount is very high or only interested in some people, some companies, some groups with specific topology. For banks, to please big customers, they will give up some examinations  and for effectiveness purpose.  For banker, to  save time and leave enough of time to make profit, they just 'check' the  suspicious  transactions   on the computer and then turn it  to ‘normal’.  If there were no especially suspicious transactions, they won't pay attention, this is why  there are some many obvious money laundering behaviors was not known until the fine was imposed on the bank. You can imagine that there are still so many money laundering behavior without be caught.
 
 ![image](https://user-images.githubusercontent.com/24772812/91387613-3ca65d00-e868-11ea-9a6c-586f2c0ec7c6.png)
 
-### my suggesstion 
-&emsp; Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
+### AML tools in the bank 
+
+The government has  made many laws  which describe what is money laundering. For the bank,  pick the suspicious transaction out that  the government wants is enough, so the main  AML system is based on rules designed according to the laws  government has made.  
+
+Despite you have many good ideas about AML, for the bank, it was useless,  the existence AML system is enough, who want do more but get no pay? 
+
+Yes, may your algorithm is accurate, the  existence AML system can do 80% of it,  yours do 100%. but what is  the meaning of it, saving a little bit of money for the 20% money forfeited by  government, the bank earns a big deal of money every day, who has time to think about it.  Moreover, If your algorithm run a bit slow,  why the bank use your algorithm?  The bank just sum the amount of transactions during two people, and select and check the most biggest  amount  of transactions from database, they can find most of  money laundering behaviors.  Even some of small amount of transactions is exactly  money laundering behaviors,  how is that?  The government has no time to care about this tiny problem, and will not punish the bank.  
+
+ the  existence AML system tools is enough, as you can see,  the police still has a crime solving rate indicator. 
+
+### Dataset problem 
+
+The experiment in the paper is really time costing, because of no data was opened on the net with labeled money laundering group. So many injection experiments are needed. I spent two week working day and night using 4 computer servers just trying one model. And it takes a long time to came up with the model, and we try dozens of models before published in the paper. 
+
+### my suggestion 
+
+Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
