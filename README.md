@@ -106,7 +106,8 @@ parameter specifications：
 
 &emsp; if you do not believe me, looking at the  annual report of the parent company of  LexisNexis， RELX， it is easy to find on the net. LexisNexis is a top company  in AML,  its mainly business operators in Europe and North America, where the financial system is quite mature, and the governments pay more attentions to the AML problem.  It total revenue about risk solution and  business analytics is only 2,316 million ￡. Yes, and the AML's revenue is just a part of it, showing as the picture below.
 
-![image](https://user-images.githubusercontent.com/59363655/90001747-66864e00-dcc4-11ea-9f27-257c299feed6.png)
+![image](https://user-images.githubusercontent.com/24772812/91387650-5051c380-e868-11ea-86a4-badeef69c3f4.png)
+
 
 ## what AML company need
 
@@ -122,7 +123,8 @@ parameter specifications：
 
 &emsp; The bank has no strong motivation to do AML.
 
-![1598500597707](C:\Users\alf\AppData\Roaming\Typora\typora-user-images\1598500597707.png)
+![image](https://user-images.githubusercontent.com/24772812/91387613-3ca65d00-e868-11ea-9a6c-586f2c0ec7c6.png)
+
 
 
 
