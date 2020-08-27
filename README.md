@@ -1,4 +1,6 @@
 # Atteion, if you are a student, read this part first. 
+
+
 # FlowScope 
 
 Implementation code of the algorithm described in FlowScope: Spotting Money Laundering Based on Graphs. and thanks for the contribution of the coworkers , i.e. , Shenghua Liu and Zifeng Li.
@@ -103,9 +105,7 @@ I wish you could stop doing this, anti-money laundering(AML) is useless. you can
 
 ## why I don't stop
 
-My supervisors push me so hard with this job, describe a bright future for me, even threatened me with failure to graduate. I am a honest man and a bit timid.  So you can image how many efforts I put on this useless work, and how I suffered from this. But when I seek my teacher for help with the work, they reject to help to me or they provide bad jobs which I should get sleeping all three years in my school life without this fucking work.  Where's my supervisors? They have already made profit from this paper, and there are still some my efforts in their profit . They won't share whatever you do.
-
-The question is that despite they made billions of money from it, they did not share 1$ with me or help me to get a good job. Do you know what you do while do the AML work?  you are wasting your best time in your life and you cannot find good job, you feature will be gloomy. Where's your supervisors? They take no responsibility for your future, they just try to make money out of you, out of your work. Contrast with your bad work, they just have made another profit. Hope you can get a good supervisor in your life.
+My supervisors push me so hard with this job, describe a bright future for me, even threatened me with failure to graduate. I am a honest man and a bit timid.  So you can image how many efforts I put on this useless work, and how I suffered from this. But when I seek my teacher for help with the work, they reject to help to me or they provide bad jobs which I should get sleeping all three years in my school life without this fucking work.  Where's my supervisors? They have already made profit from this paper, and there are still some my efforts in their profit . They won't share whatever you do. Hope you can get a good supervisor.
 
 ## the revenue of top AML company 
 
@@ -123,7 +123,7 @@ Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better cho
 
 ​     Ride the rubbish thoughts out of your mind, the biggest problem for the bank, for any company is profit. 
 
-### the  fine they receive 
+### the fine bank receives 
 
 ​     You can easily search on the net, and get the below information.  in China, the total amount of the fine of thousands of financial company is no more than 1  billion due to poor performance in AML ,   even in Europe and North America, Australia, where the financial market is quite measure,  the amount of  is not high compare to their high profit.  
 
@@ -133,35 +133,6 @@ The bank has no strong motivation to do AML.
 
 
 
-### what they do 
+### what banks do    
 
-You might think that, the bank will check every  transaction carefully.  Yes, you are wrong again.  The bank only checks  the transactions which money amount is very high or only interested in some people, some companies, some groups with specific topology. For banks, to please big customers, they will give up some examinations  and for effectiveness purpose.  For banker, to  save time and leave enough of time to make profit, they just 'check' the  suspicious  transactions   on the computer and then turn it  to ‘normal’.  If there were no especially suspicious transactions, they won't pay attention, this is why  there are some many obvious money laundering behaviors was not known until the fine was imposed on the bank. You can imagine that there are still so many money laundering behavior without be caught.
-
-### ![1598503665451](C:\Users\alf\AppData\Roaming\Typora\typora-user-images\1598503665451.png)
-
-### AML tools in the bank 
-
-The government has  made many laws  which describe what is money laundering. For the bank,  pick the suspicious transaction out that  the government wants is enough, so the main  AML system is based on rules designed according to the laws  government has made.  
-
-Despite you have many good ideas about AML, for the bank, it was useless,  the existence AML system is enough, who want do more but get no pay? 
-
-Yes, may your algorithm is accurate, the  existence AML system can do 80% of it,  yours do 100%. but what is  the meaning of it, saving a little bit of money for the 20% money forfeited by  government, the bank earns a big deal of money every day, who has time to think about it.  Moreover, If your algorithm run a bit slow,  why the bank use your algorithm?  The bank just sum the amount of transactions during two people, and select and check the most biggest  amount  of transactions from database, they can find most of  money laundering behaviors.  Even some of small amount of transactions is exactly  money laundering behaviors,  how is that?  The government has no time to care about this tiny problem, and will not punish the bank.  
-
- the  existence AML system tools is enough, as you can see,  the police still has a crime solving rate indicator. 
-
-### Dataset problem 
-
-The experiment in the paper is really time costing, because of no data was opened on the net with labeled money laundering group. So many injection experiments are needed. I spent two week working day and night using 4 computer servers just trying one model. And it takes a long time to came up with the model, and we try dozens of models before published in the paper. Be honest, we tune the model from the beginning to the end of the whole research, you can image how many time I spent on this work. And the most unacceptable thing is I even cannot find a half pay job compared to the classmates who play game all day, there are very few companies who are interest in my paper. 
-
-### my suggestion 
-
-Stop doing this  !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Software engineer is a better choice !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!     
-
-
-
-
-
-
-
-
-
+    You might think that, the bank will check every  transaction carefully.  Yes, you are wrong again.  The bank only checks  the transactions which money amount is very high or only interested in some people, some companies, some groups with specific topology. For banks, to please big customers, they will give up some examinations  and for effectiven
